@@ -127,7 +127,11 @@
         "price": "42",
         "description": "",
         "category":"pants",
-        "image": "/image/pants (4).jpg"
+        "image": "/image/pants (4).jpg",
+                 "rating": {
+          "count": "10",
+          "rate": "5"
+        }
       },
       {
         "id": 12,
@@ -171,7 +175,11 @@
         "price": "42",
         "description": "",
         "category":"shoes",
-        "image": "/image/shoes1.jpg"
+        "image": "/image/shoes1.jpg",
+                 "rating": {
+          "count": "10",
+          "rate": "5"
+        }
       },
       {
         "id": 16,
