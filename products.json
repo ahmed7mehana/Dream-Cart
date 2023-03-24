@@ -1,0 +1,479 @@
+
+  {
+    "products": [
+    {
+        "id": 1,
+        "name": "hoodie",
+        "price": "30",
+        "description": "",
+        "category":"hoodie",
+        "image": "/image/hoodie1.jpg",
+        "rating": {
+          "count": "10",
+          "rate": "4"
+        }
+      },
+      {
+        "id": 2,
+        "name": "hoodie",
+        "price": "30",
+        "description": "",
+        "category":"hoodie",
+        "image": "/image/hoodie 2.jpg",
+            "rating": {
+          "count": "10",
+          "rate": "4"
+        }
+      },
+      {
+        "id": 3,
+        "name": "hoodie",
+        "price": "30",
+        "description": "",
+        "category":"hoodie",
+        "image": "/image/hoodie3.jpg",
+            "rating": {
+          "count": "10",
+          "rate": "3"
+        }
+      },
+      {
+        "id": 4,
+        "name": "hoodie",
+        "price": "30",
+        "description": "",
+        "category":"hoodie",
+        "image": "/image/hoodie 4.jpg",
+            "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": 5,
+        "name": "Jacket",
+        "price": "50",
+        "description": "",
+        "category":"Jacket",
+        "image": "/image/Jacket (2).jpg",
+        "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": 6,
+        "name": "Jacket",
+        "price": "60",
+        "description": "",
+        "category":"Jacket",
+        "image": "/image/Jacket (3).jpg",
+    "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": 7,
+        "name": "Jacket",
+        "price": "15",
+        "description": "",
+        "category":"Jacket",
+        "image": "/image/Jacket.jpg",
+"rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": 8,
+        "name": "pants",
+        "price": "52",
+        "description": "",
+        "category":"pants",
+        "image": "/image/pants.jpg",
+                 "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": 9,
+        "name": "pants",
+        "price": "35",
+        "description": "",
+        "category":"pants",
+        "image": "/image/pants (2).jpg",
+                 "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": 10,
+        "name": "pants",
+        "price": "35",
+        "description": "",
+        "category":"pants",
+        "image": "/image/pants (3).jpg",
+                 "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": 11,
+        "name": "pants",
+        "price": "42",
+        "description": "",
+        "category":"pants",
+        "image": "/image/pants (4).jpg"
+      },
+      {
+        "id": 12,
+        "name": "pants",
+        "price": "42",
+        "description": "",
+        "category":"pants",
+        "image": "/image/pants (5).jpg",
+                 "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": 13,
+        "name": "pants",
+        "price": "54",
+        "description": "",
+        "category":"pants",
+        "image": "/image/pants (6).jpg",
+                 "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": 14,
+        "name": "pants",
+        "price": "96",
+        "description": "",
+        "category":"pants",
+        "image": "/image/pants (7).jpg",
+                 "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": 15,
+        "name": "shoes",
+        "price": "42",
+        "description": "",
+        "category":"shoes",
+        "image": "/image/shoes1.jpg"
+      },
+      {
+        "id": 16,
+        "name": "shoes",
+        "price": "42",
+        "description": "",
+        "category":"shoes",
+        "image": "/image/shoes2.jpg",
+                 "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": 17,
+        "name": "shoes",
+        "price": "42",
+        "description": "",
+        "category":"shoes",
+        "image": "/image/shoes3.jpg",
+                 "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": 18,
+        "name": "shoes",
+        "price": "64",
+        "description": "",
+        "category":"shoes",
+        "image": "/image/shoes4.jpg",
+                 "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": 19,
+        "name": "shoes",
+        "price": "45",
+        "description": "",
+        "category":"shoes",
+        "image": "/image/shoes5.jpg",
+        "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      
+      },
+      {
+        "id": 20,
+        "name": "shirt",
+        "price": "75",
+        "description": "",
+        "category":"shirt",
+        "image": "/image/T-shirt1.jpg",
+                 "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": 21,
+        "name": "shirt",
+        "price": "34",
+        "description": "",
+        "category":"shirt",
+        "image": "/image/T-shirt2.jpg",
+                 "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": 22,
+        "name": "shirt",
+        "price": "35",
+        "description": "",
+        "category":"shirt",
+        "image": "/image/T-shirt3.jpg",
+                 "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": 23,
+        "name": "shirt",
+        "price": "35",
+        "description": "",
+        "category":"shirt",
+        "image": "/image/T-shirt4.jpg",
+                 "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": 24,
+        "name": "watche",
+        "price": "53",
+        "description": "",
+        "category":"watche",
+        "image": "/image/watches.jpg",
+                 "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": 25,
+        "name": "watche",
+        "price": "43",
+        "description": "",
+        "category":"watche",
+        "image": "/image/watches (2).jpg",
+                 "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": 26,
+        "name": "watche",
+        "price": "23",
+        "description": "",
+        "category":"watche",
+        "image": "/image/watches (3).jpg",
+                 "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": 27,
+        "name": "watche",
+        "price": "34",
+        "description": "",
+        "category":"watche",
+        "image": "/image/watches (4).jpg",
+                 "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": 28,
+        "name": "watche",
+        "price": "53",
+        "description": "",
+        "category":"watche",
+        "image": "/image/watches (5).jpg",
+                 "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": 29,
+        "name": "watche",
+        "price": "42",
+        "description": "",
+        "category":"watche",
+        "image": "/image/watches (6).jpg",
+                 "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": 30,
+        "name": "watche",
+        "price": "342",
+        "description": "",
+        "category":"watche",
+        "image": "/image/watches (7).jpg",
+                 "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": 31,
+        "name": "watche",
+        "price": "24",
+        "description": "",
+        "category":"watche",
+        "image": "/image/watches (8).jpg",
+                 "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": 32,
+        "name": "watche",
+        "price": "35",
+        "description": "",
+        "category":"watche",
+        "image": "/image/watches (9).jpg",
+                 "rating": {
+          "count": "10",
+          "rate": "5"
+        }
+      },
+      {
+        "id": "33",
+        "name": "Kentiapalm (L)",
+        "price": "3995",
+        "currency": "USD",
+        "category":"plants",
+        "image":"https://media.istockphoto.com/id/1367818570/photo/kentia-or-howea-forsteriana-in-room-interior.jpg?b=1&s=612x612&w=0&k=20&c=PGKMV4SWcJQqvDK0HCzOlBzSJNaWwVrraT5TMTh18EI=",
+        "rating": {
+          "count": "85",
+          "rate": "4.5"
+        }
+      },
+      {
+        "id": "34",
+        "name": "Monstera Deliciosa (L)",
+        "price":" 5995",
+        "currency": "USD",
+        "category":"plants",
+        "image": "https://images.pexels.com/photos/5858235/pexels-photo-5858235.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "rating": {
+          "count": "137",
+          "rate": "4.5"
+        }
+      },
+      {
+        "id": "35",
+        "name": "'Alocasia Zebrina",
+        "price": "2995",
+        "currency": "'USD",
+        "category":"plants",
+        "image": "https://images.pexels.com/photos/8988961/pexels-photo-8988961.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "rating": {
+          "count": "104",
+          "rate": "4"
+        }
+      },
+      {
+        "id": "36",
+        "name": "Cactus Euphorbia (L)",
+        "price": "4995",
+        "currency":"USD",
+        "category":"plants",
+        "image": "https://images.pexels.com/photos/15725088/pexels-photo-15725088.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "rating": {
+          "count": "213",
+          "rate":"5"
+        }
+      },
+      {
+        "id": "37",
+        "name": "Calathea Orbifolia",
+        "price": "2995",
+        "currency": "USD",
+        "category":"plants",
+        "image": "https://images.pexels.com/photos/13798092/pexels-photo-13798092.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "rating": {
+          "count": "78",
+          "rate": "4"
+        }
+      },
+      {
+        "id": "38",
+        "name": "'Calathea Medallion",
+        "price": "2995",
+        "currency": "USD",
+        "category":"plants",
+        "image": "https://images.pexels.com/photos/8734306/pexels-photo-8734306.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "rating": {
+          "count": "89",
+          "rate": "5"
+        }
+      },
+      {
+        "id": "39",
+        "name": "Calathea Ornata",
+        "price": "2995",
+        "currency": "USD",
+        "category":"plants",
+        "image": "https://images.pexels.com/photos/9507734/pexels-photo-9507734.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "rating": {
+          "count": "271",
+          "rate": "5"
+        }
+      },
+      {
+        "id": "40",
+        "name": "Zamioculcas (L)",
+        "price": "3995",
+        "currency": "USD",
+        "category":"plants",
+        "image": "https://images.pexels.com/photos/8549167/pexels-photo-8549167.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "rating": {
+          "count": "78",
+          "rate": "4"
+        }
+      }
+    ]
+  }
+  
