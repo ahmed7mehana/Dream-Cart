@@ -2,8 +2,7 @@ import { useSession } from "next-auth/react";
 import { useTheme } from "next-themes";
 import Link from "next/link";
 import React, { useState, useEffect } from "react";
-import { AiOutlineMenu, AiOutlineClose ,AiOutlineShopping ,AiOutlineKey, AiOutlineHeart,AiFillFire} from "react-icons/ai";
-import Footer from "./Footer";
+import { AiOutlineMenu, AiOutlineClose ,AiFillFire} from "react-icons/ai";
 import Top from "./Top";
 
 const Navba = () => {
@@ -58,8 +57,8 @@ className="fixed left-0 sm:dark:bg-black  bg-black  w-full z-10 ease-in duration
 >
 <div className="max-w-[1240px] m-auto flex justify-between items-center p-1 sm:p-3 ">
   <Link href="/">
-    <h1 className="font-bold text-[25px] text-white">
-    Baradise
+    <h1 className="font-bold text-[20px] uppercase sm:text-[25px] text-white ">
+    Dream_Cart
     </h1>
   </Link>
   <ul 
