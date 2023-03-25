@@ -4,7 +4,6 @@ import Table from 'react-bootstrap/Table';
 import { Clear, deletefromcart } from '../../rtk/Slices/CartSlice';
 import { Container} from 'react-bootstrap';
 import axios from 'axios';
-import  {checkout}  from '/checkout';
 import Link from 'next/link';
 import products from '/products.json';
 
